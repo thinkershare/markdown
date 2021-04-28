@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace ThinkerShare.Markdown.Test
+namespace Thinkershare.Markdown.Test
 {
     public class MarkdownShould
     {

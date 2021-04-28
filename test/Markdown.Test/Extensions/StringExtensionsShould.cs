@@ -1,7 +1,7 @@
-﻿using ThinkerShare.Markdown.Extensions;
+﻿using Thinkershare.Markdown.Extensions;
 using Xunit;
 
-namespace ThinkerShare.Markdown.Test.Extensions
+namespace Thinkershare.Markdown.Test.Extensions
 {
     public class StringExtensionsShould
     {

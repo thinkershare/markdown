@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace ThinkerShare.Markdown.Test.TestData
+namespace Thinkershare.Markdown.Test.TestData
 {
     public static class TestData
     {
