@@ -16,6 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Markdown\Markdown.csproj" />
+    <ProjectReference Include="..\..\src\ThinkerShare.Markdown\ThinkerShare.Markdown.csproj" />
   </ItemGroup>
 </Project>
