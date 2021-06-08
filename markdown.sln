@@ -7,11 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "info", "info", "{2634F930-3
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 		.gitignore = .gitignore
-		.github\workflows\build.yml = .github\workflows\build.yml
 		contributing.md = contributing.md
-		.github\funding.yml = .github\funding.yml
 		LICENSE = LICENSE
-		README-zh-Hans.md = README-zh-Hans.md
+		README-en.md = README-en.md
 		README.md = README.md
 	EndProjectSection
 EndProject
@@ -28,9 +26,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{AE6CB068-014
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Markdown.Test", "test\Markdown.Test\Markdown.Test.csproj", "{7912AC61-28E0-4721-BAE7-707585B53F4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkerShare.Markdown", "src\ThinkerShare.Markdown\ThinkerShare.Markdown.csproj", "{F8AB69DF-BED3-4DA6-AA51-60AAEBD2F2DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThinkerShare.Markdown", "src\ThinkerShare.Markdown\ThinkerShare.Markdown.csproj", "{F8AB69DF-BED3-4DA6-AA51-60AAEBD2F2DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkerShare.Markdown.Core", "src\ThinkerShare.Markdown.Core\ThinkerShare.Markdown.Core.csproj", "{CF92FA70-D60A-40B3-A75C-233D9426E535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThinkerShare.Markdown.Core", "src\ThinkerShare.Markdown.Core\ThinkerShare.Markdown.Core.csproj", "{CF92FA70-D60A-40B3-A75C-233D9426E535}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
